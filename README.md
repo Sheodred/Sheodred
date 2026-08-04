@@ -24,4 +24,4 @@ Python · FastAPI · Elasticsearch · Docker · pytest · ruff · GitHub Actions
 
 ## 📫 Kontakt
 
-[LinkedIn](#) · [E-Mail](#)
+[LinkedIn](https://www.linkedin.com/in/adrian-kluge/) · [E-Mail](mailto:92444350+Sheodred@users.noreply.github.com)
