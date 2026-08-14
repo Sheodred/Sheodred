@@ -39,7 +39,7 @@ Adrian Kluge | Dortmund, Germany | [Email](mailto:92444350+Sheodred@users.norepl
 
 ## Professional Profile
 
-Backend developer with 2+ years of continuous growth at adesso SE — promoted from
+Backend developer with 2+ years of continuous growth at a large German IT consulting company — promoted from
 working student to trainee to software developer — specializing in Elasticsearch
 search infrastructure and, increasingly, LLM/RAG integration. Built and shipped
 search systems for automotive, electronics, and public-sector clients; most recently
@@ -61,7 +61,7 @@ algorithms) that underpins the analytical side of search relevance and ranking w
 
 ## Professional Experience
 
-**adesso SE, Dortmund**
+**A large German IT consulting company, Dortmund**
 Software Developer | Oct 2025 – Present
 *(previously Trainee, May 2024 – Sept 2025 · Working Student Software Development, Sept 2023 – Apr 2024 — continuous progression within the same team)*
 

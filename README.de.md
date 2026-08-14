@@ -39,7 +39,7 @@ Adrian Kluge | Dortmund, Deutschland | [E-Mail](mailto:92444350+Sheodred@users.n
 
 ## Profil
 
-Backend-Entwickler mit über 2 Jahren kontinuierlicher Entwicklung bei der adesso SE —
+Backend-Entwickler mit über 2 Jahren kontinuierlicher Entwicklung bei einem großen deutschen IT-Beratungsunternehmen —
 vom Werkstudenten über die Traineephase zum Software Developer befördert —
 spezialisiert auf Elasticsearch-Suchinfrastruktur und zunehmend auf LLM-/RAG-
 Integration. Suchsysteme für Kunden aus Automotive, Elektrotechnik und dem
@@ -63,7 +63,7 @@ von Relevanz- und Ranking-Arbeit.
 
 ## Beruflicher Werdegang
 
-**adesso SE, Dortmund**
+**Ein großes deutsches IT-Beratungsunternehmen, Dortmund**
 Software Developer | Okt. 2025 – heute
 *(zuvor Trainee, Mai 2024 – Sept. 2025 · Werkstudent Softwareentwicklung, Sept. 2023 – Apr. 2024 — durchgängige Entwicklung im selben Team)*
 
