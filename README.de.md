@@ -3,7 +3,7 @@
 **Sprache:** [English](README.md) | **Deutsch**
 
 Backend-Entwickler mit Fokus auf **Suche/Elasticsearch** und **KI-Integration** (RAG, LLM-Anbindung).
-2+ Jahre bei der adesso SE, Elasticsearch-Suchinfrastruktur für Kunden aus
+2+ Jahre bei einem großen deutschen IT-Beratungsunternehmen, Elasticsearch-Suchinfrastruktur für Kunden aus
 Automotive, öffentlichem Sektor und Elektrotechnik ausgeliefert — von
 Crawler-zu-Pipeline-Migrationen bis zum kompletten Suche-Neuaufbau für eine
 öffentlich-rechtliche Investitionsbank.

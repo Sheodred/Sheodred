@@ -3,7 +3,7 @@
 **Language:** **English** | [Deutsch](README.de.md)
 
 Backend developer focused on **search/Elasticsearch** and **AI integration** (RAG, LLM integration).
-2+ years at adesso SE shipping Elasticsearch search infrastructure for automotive,
+2+ years at a large German IT consulting company shipping Elasticsearch search infrastructure for automotive,
 public-sector, and electronics/electrical clients — from crawler-to-pipeline
 migrations to a from-scratch search relaunch for a public-sector investment bank.
 
