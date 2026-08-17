@@ -17,7 +17,7 @@ Elasticsearch hybrid search (BM25 + kNN via Reciprocal Rank Fusion) with an
 LLM layer for source-grounded RAG answers.
 
 ![CI](https://github.com/Sheodred/hybrid-search-api/actions/workflows/ci.yml/badge.svg)
-![Python](https://img.shields.io/badge/python-3.12-blue)
+![Python](https://img.shields.io/badge/python-3.11%2B-blue)
 ![License: MIT](https://img.shields.io/badge/license-MIT-green)
 
 - **Backend engineering** — FastAPI, containerized (Docker Compose), tested (pytest), CI (GitHub Actions), linted (ruff)
