@@ -21,13 +21,15 @@ LLM layer for source-grounded RAG answers.
 ![License: MIT](https://img.shields.io/badge/license-MIT-green)
 
 - **Backend engineering** — FastAPI, containerized (Docker Compose), tested (pytest), CI (GitHub Actions), linted (ruff)
-- **Search specialization** — custom Elasticsearch mapping/analyzers, BM25 + vector/kNN search, ranking fusion via RRF
+- **Search specialization** — custom Elasticsearch mapping/analyzers, BM25 + vector/kNN search, ranking fusion via RRF, switchable demo / NFCorpus (~3.6K medical documents) datasets
 - **AI integration** — production-style LLM integration over any OpenAI-compatible endpoint (retry logic, versioned prompts, RAG), local embeddings via sentence-transformers, and a runtime EN/DE language toggle
+- **Agentic RAG** — an opt-in mode where the LLM decides when and how to search instead of following a fixed pipeline, calling the project's own MCP `search` tool in-process; that same tool is exposed to external MCP clients like Claude Desktop
+- **Data sovereignty** — a one-command fully on-prem mode (llama.cpp behind a Docker Compose profile) so the RAG step never makes an external call — built for GDPR/regulated environments, with the trade-offs written up as an ADR
 
 📖 [README](https://github.com/Sheodred/hybrid-search-api#readme) · [Architecture](https://github.com/Sheodred/hybrid-search-api/blob/main/docs/architecture.md)
 
 #### Stack
-Python · FastAPI · Elasticsearch · Docker · pytest · ruff · GitHub Actions
+Python · FastAPI · Elasticsearch · MCP · llama.cpp · Docker · pytest · ruff · GitHub Actions
 
 ### [HobbyHub](https://sheoforge.com)
 A personal hobby site — Magic: The Gathering card/deck browsing, board game
@@ -146,6 +148,6 @@ Career Essentials in Generative AI (Microsoft & LinkedIn)
 
 **Business-IT bridge.** A dual background as an industrial clerk and computer scientist means I translate business/compliance requirements into clean technical specs.
 
-**AI-integration builder, not just a user.** Beyond certifications, I've shipped a working RAG system (hybrid-search-api: BM25 + kNN + LLM answer synthesis, tested, containerized, CI'd, bilingual EN/DE).
+**AI-integration builder, not just a user.** Beyond certifications, I've shipped a working RAG system (hybrid-search-api: BM25 + kNN + LLM answer synthesis, an agentic MCP-driven search mode, and a fully on-prem deployment option — tested, containerized, CI'd, bilingual EN/DE).
 
 *(A full, downloadable CV PDF is available on request.)*
