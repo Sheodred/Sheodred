@@ -7,7 +7,7 @@ Backend developer focused on **search/Elasticsearch** and **AI integration** (RA
 public-sector, and electronics/electrical clients — from crawler-to-pipeline
 migrations to a from-scratch search relaunch for a public-sector investment bank.
 
-Outside of work I build [HobbyHub](https://sheoforge.com): browsing Magic: The
+Outside of work I build [HobbyHub](https://sheoforge.de): browsing Magic: The
 Gathering cards, playing chess against an engine, and tracking board games.
 
 ## 🔎 Projects
