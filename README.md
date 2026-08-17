@@ -3,8 +3,14 @@
 **Language:** **English** | [Deutsch](README.de.md)
 
 Backend developer focused on **search/Elasticsearch** and **AI integration** (RAG, LLM integration).
+2+ years at adesso SE shipping Elasticsearch search infrastructure for automotive,
+public-sector, and electronics/electrical clients — from crawler-to-pipeline
+migrations to a from-scratch search relaunch for a public-sector investment bank.
 
-## 🔎 Current project
+Outside of work I build [HobbyHub](https://sheoforge.com): browsing Magic: The
+Gathering cards, playing chess against an engine, and tracking board games.
+
+## 🔎 Projects
 
 ### [hybrid-search-api](https://github.com/Sheodred/hybrid-search-api)
 Elasticsearch hybrid search (BM25 + kNN via Reciprocal Rank Fusion) with an
@@ -20,9 +26,30 @@ LLM layer for source-grounded RAG answers.
 
 📖 [README](https://github.com/Sheodred/hybrid-search-api#readme) · [Architecture](https://github.com/Sheodred/hybrid-search-api/blob/main/docs/architecture.md)
 
+#### Stack
+Python · FastAPI · Elasticsearch · Docker · pytest · ruff · GitHub Actions
+
+### [HobbyHub](https://sheoforge.com)
+A personal hobby site — Magic: The Gathering card/deck browsing, board game
+lookups aggregated across rating sources, and a chess engine to play
+against. Built end-to-end and self-hosted, from CI to deploy.
+
+- **Backend** — PHP, MySQL, PHPUnit, external API integration (Scryfall, BGG, EDHREC) with caching and rate-limit handling
+- **Frontend** — React, TypeScript, Vite, Tailwind CSS, React Router, TanStack Query
+- **Ops** — GitHub Actions CI/CD, deployed to IONOS webspace via SFTP
+
+📖 [Code](https://github.com/Sheodred/hobbyhub) · [Live site](https://sheoforge.com)
+
+#### Stack
+PHP · MySQL · PHPUnit · React · TypeScript · Vite · Tailwind CSS · GitHub Actions
+
 ## 🛠️ Stack
 
-Python · FastAPI · Elasticsearch · Docker · pytest · ruff · GitHub Actions
+**Backend:** Java · Kotlin · Spring Boot · Python
+**Search & Data:** Elasticsearch · OpenSearch · Solr · Lucene · MongoDB · SQL
+**AI & RAG:** LLM integration (OpenAI-compatible APIs) · RAG · prompt engineering · sentence-transformers
+**Cloud & DevOps:** Azure · OCI · Docker · Kubernetes · GitLab CI/CD · GitHub Actions
+**Frontend:** React · TypeScript · Angular · Vue.js
 
 ## 📫 Contact
 

@@ -3,8 +3,15 @@
 **Sprache:** [English](README.md) | **Deutsch**
 
 Backend-Entwickler mit Fokus auf **Suche/Elasticsearch** und **KI-Integration** (RAG, LLM-Anbindung).
+2+ Jahre bei der adesso SE, Elasticsearch-Suchinfrastruktur für Kunden aus
+Automotive, öffentlichem Sektor und Elektrotechnik ausgeliefert — von
+Crawler-zu-Pipeline-Migrationen bis zum kompletten Suche-Neuaufbau für eine
+öffentlich-rechtliche Investitionsbank.
 
-## 🔎 Aktuelles Projekt
+Privat baue ich [HobbyHub](https://sheoforge.de): Magic: The Gathering Karten
+durchstöbern, Schach gegen eine Engine spielen und Brettspiele im Blick behalten.
+
+## 🔎 Projekte
 
 ### [hybrid-search-api](https://github.com/Sheodred/hybrid-search-api)
 Elasticsearch Hybrid Search (BM25 + kNN via Reciprocal Rank Fusion) mit einer
@@ -20,9 +27,31 @@ LLM-Schicht für quellenbasierte RAG-Antworten.
 
 📖 [README](https://github.com/Sheodred/hybrid-search-api#readme) · [Architektur](https://github.com/Sheodred/hybrid-search-api/blob/main/docs/architecture.md)
 
+#### Stack
+Python · FastAPI · Elasticsearch · Docker · pytest · ruff · GitHub Actions
+
+### [HobbyHub](https://sheoforge.de)
+Eine private Hobby-Seite — Magic: The Gathering Karten- und Deck-Browsing,
+Brettspiel-Lookups über mehrere Bewertungsquellen hinweg, und eine
+Schach-Engine zum Spielen. Komplett end-to-end gebaut und selbst gehostet,
+von CI bis Deployment.
+
+- **Backend** — PHP, MySQL, PHPUnit, Anbindung externer APIs (Scryfall, BGG, EDHREC) mit Caching und Rate-Limit-Handling
+- **Frontend** — React, TypeScript, Vite, Tailwind CSS, React Router, TanStack Query
+- **Betrieb** — GitHub Actions CI/CD, Deployment auf IONOS-Webspace per SFTP
+
+📖 [Code](https://github.com/Sheodred/hobbyhub) · [Live-Seite](https://sheoforge.de)
+
+#### Stack
+PHP · MySQL · PHPUnit · React · TypeScript · Vite · Tailwind CSS · GitHub Actions
+
 ## 🛠️ Stack
 
-Python · FastAPI · Elasticsearch · Docker · pytest · ruff · GitHub Actions
+**Backend:** Java · Kotlin · Spring Boot · Python
+**Suche & Daten:** Elasticsearch · OpenSearch · Solr · Lucene · MongoDB · SQL
+**KI & RAG:** LLM-Anbindung (OpenAI-kompatible APIs) · RAG · Prompt-Engineering · sentence-transformers
+**Cloud & DevOps:** Azure · OCI · Docker · Kubernetes · GitLab CI/CD · GitHub Actions
+**Frontend:** React · TypeScript · Angular · Vue.js
 
 ## 📫 Kontakt
 
