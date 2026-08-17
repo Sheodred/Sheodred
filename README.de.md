@@ -45,6 +45,20 @@ von CI bis Deployment.
 #### Stack
 PHP · MySQL · PHPUnit · React · TypeScript · Vite · Tailwind CSS · GitHub Actions
 
+## 🚧 In Arbeit
+
+Zwei weitere Projekte, aktuell privat, während ich sie dokumentiere und verfeinere.
+
+### Codex Notes
+Ein privater Wissensdatenbank-Assistent, der verstreute Dokumente in einen durchsuchbaren, quellenbasierten Index verwandelt.
+
+**Stack:** Python · Elasticsearch · LLM/RAG
+
+### Agent Bench
+Ein privates Testharness für mehrstufige LLM-Agent-Workflows gegen reproduzierbare Aufgaben.
+
+**Stack:** Python · FastAPI · LLM-APIs
+
 ## 🛠️ Stack
 
 **Backend:** Java · Kotlin · Spring Boot · Python

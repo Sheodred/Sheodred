@@ -43,6 +43,20 @@ against. Built end-to-end and self-hosted, from CI to deploy.
 #### Stack
 PHP · MySQL · PHPUnit · React · TypeScript · Vite · Tailwind CSS · GitHub Actions
 
+## 🚧 Work in Progress
+
+Two more projects, currently private while I document and refine them.
+
+### Codex Notes
+A private knowledge-base assistant that turns scattered docs into a queryable, source-cited index.
+
+**Stack:** Python · Elasticsearch · LLM/RAG
+
+### Agent Bench
+A private harness for testing multi-step LLM agent workflows against reproducible tasks.
+
+**Stack:** Python · FastAPI · LLM APIs
+
 ## 🛠️ Stack
 
 **Backend:** Java · Kotlin · Spring Boot · Python
